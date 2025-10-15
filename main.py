@@ -26,7 +26,7 @@ logging.basicConfig(
 
 # Bot token from BotFather
 
-BOT_TOKEN = "8288403434:AAG1xwYdc-iwG12tVmdnFyOMXkF5SP5Niwk"
+BOT_TOKEN = "7547944822:AAHSQ42WVPaieL2L8s6bMSOFpSrYP09WGjE"
 
 # Timezone setup (Pakistan Time)
 
